@@ -1,2 +1,3 @@
 # Handwritten_Mathematical_Symbol_Recognition
-IPCV Project 221EC217
+IPCV Project  Gururaj Vijay Shimpi 221EC217
+The recognition of handwritten mathematical symbols is an important task in the field of pattern recognition and image processing. It enables the conversion of handwritten equations, formulas, and symbols into machine-readable formats. This project focuses on building a deep learning model using Convolutional Neural Networks (CNNs) to accurately classify handwritten mathematical symbols. The model is trained using a publicly available dataset containing thousands of symbols such as digits, alphabets, operators, and Greek characters. By leveraging modern image preprocessing and augmentation techniques, the model achieves a high recognition accuracy and demonstrates the potential for integration into real-time applications like digital note recognition and smart education systems
